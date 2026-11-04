@@ -1,7 +1,5 @@
 # My Claude Code dashboard, in one line
 
-*Abdullah Zowad Khan · November 2026 · 3 min read*
-
 ![Claude Code statusline: Opus 5.5, OtherProj/abdullah-z-site, master branch, 6% context, 64.5K tokens, $0.54, 43% of 5-hour quota resetting in 2h27m, 37% of weekly quota resetting in 4 days](statusline.jpeg)
 
 *Model · directory · branch · context & cost · account quota, in one line.*
